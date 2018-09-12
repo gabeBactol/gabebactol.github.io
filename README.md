@@ -1,9 +1,9 @@
-# Gabriel Bactol
+# Resume: Gabriel Bactol
 
 Email: gabrielbactol109@gmail.com
 
 Summary of Skills
-I am a diligent worker who is willing to learn and improve my skills. I maintain a positive attitude and do my best to assist customers to provide a great customer service. My goal is gain experience as well as help people get what they need in hopes that the skills I’ve gained will help the company grow.
+I am a diligent worker who is willing to learn and improve my skills. I maintain a positive attitude and do my best to assist customers to provide a great customer service. My goal is gain experience as well as help people get what they need in hopes that the skills I’ve gained will help the team I'm a part of.
 
 I have a learned a lot about technology throughout high school. Most of my classes involved technology in some way, such as film, digital arts, graphic design, and especially computer science. I have learned a lot about Java such as creating animation, working as a team to create menus for a game, along with editing images in Adobe Photoshop and Illustrator. 
 
@@ -21,7 +21,7 @@ Skills
 -	Willing to follow directions and learn
 -	Maintain a positive attitude
 -	Well-developed presentation and communication skills
--	Knowledge on how to use technology
+-	Knowledge on how to use technology, such as Java, Photoshop, or Illustrator
 
 - Primary Language: Java, C#
 - Foreign Language: Spanish speaker/writer

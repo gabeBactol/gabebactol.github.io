@@ -1,4 +1,4 @@
-# gabebactol.github.io
+# Resume
 
 Uh, hello my name is Gabriel Bactol, and this is my Resume.
 

@@ -8,7 +8,8 @@ Summary of Skills
 I am a diligent worker who is willing to learn and improve my skills. I maintain a positive attitude and do my best to assist customers to provide a great customer service. My goal is gain experience as well as help people get what they need in hopes that the skills I’ve gained will help the company grow.
 
 
-Work History
+Work History:
+
 N/A
 
 Education

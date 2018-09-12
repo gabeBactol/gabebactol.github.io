@@ -1,6 +1,6 @@
 # Resume: Gabriel Bactol
 
-<img src="gabebactol.github.io/assets/20180821_202224.png" height="100" width="100"/>
+<img src="gabebactol.github.io/assets/20180821_202224.png" height="300" width="350"/>
 
 
 Email: gabrielbactol109@gmail.com

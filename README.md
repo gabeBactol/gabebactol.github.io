@@ -1,9 +1,5 @@
 # Resume: Gabriel Bactol
-
-
-
-gabebactol.github.io/20180821_202224.png
-    
+ 
 Email: gabrielbactol109@gmail.com
 
 Summary of Skills
